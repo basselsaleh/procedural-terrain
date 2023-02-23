@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1462660778 source:c:\users\alishah\documents\workspace-cpp\proceduralgeneration\main.cpp
+	<dirent.h>
+	<algorithm>
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm/glm.hpp>
+	<glm/glm/gtc/matrix_access.hpp>
+	<glm/glm/gtc/matrix_transform.hpp>
+	<glm/glm/gtx/component_wise.hpp>
+	<glm/glm/gtx/rotate_vector.hpp>
+	<glm/glm/gtx/string_cast.hpp>
+	<jpeglib.h>
+	<time.h>
+
+1462959465 source:c:\users\basse_000\desktop\proceduralgeneration\main.cpp
+	<dirent.h>
+	<algorithm>
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm/glm.hpp>
+	<glm/glm/gtc/matrix_access.hpp>
+	<glm/glm/gtc/matrix_transform.hpp>
+	<glm/glm/gtx/component_wise.hpp>
+	<glm/glm/gtx/rotate_vector.hpp>
+	<glm/glm/gtx/string_cast.hpp>
+	<jpeglib.h>
+	<time.h>
+
+1462953784 source:c:\users\basse_000\desktop\proceduralgeneration\main_light.cpp
+	<dirent.h>
+	<algorithm>
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm/glm.hpp>
+	<glm/glm/gtc/matrix_access.hpp>
+	<glm/glm/gtc/matrix_transform.hpp>
+	<glm/glm/gtx/component_wise.hpp>
+	<glm/glm/gtx/rotate_vector.hpp>
+	<glm/glm/gtx/string_cast.hpp>
+	<jpeglib.h>
+	<time.h>
+
